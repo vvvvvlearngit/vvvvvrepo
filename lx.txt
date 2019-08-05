@@ -1,4 +1,8 @@
 just a test txt
 Haha
+<<<<<<< HEAD
 In master
 Master2
+=======
+In b1
+>>>>>>> b1
